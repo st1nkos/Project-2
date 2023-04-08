@@ -1,1 +1,1 @@
-CRUD library, curse homework project
+CRUD library, homework project
